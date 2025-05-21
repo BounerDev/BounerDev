@@ -2,7 +2,7 @@ Thanks for stopping by my Profile!
 I am a well-qualified Full Stack Developer familiar with wide range of programming utilities and languages.
 Knowledgeable of backend and frontend development requirements.
 Handles any part of the process with ease.
-Collaborative team player with excellent technical abilities offering 7 years of related experience.
+Collaborative team player with excellent technical abilities offering 11 years of related experience.
 
 - Frontend: React, Redux, MUI, Next.js, Riot.js, Angular, Typescript, Vue, Vuex, Nuxt, JQuery, ES5/ES6, DHTMLX
 - Backend: Node, Express, PHP, Symfony, Laravel, CI, ASP.NET, Django
