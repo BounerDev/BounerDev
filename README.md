@@ -17,5 +17,4 @@ As you can see, I am well adept at working with all the relevant platforms, and 
 I'm always available through message and am happy to give free consultations and proposals for all new and returning clients.
 So please, message me for a chat, and let’s see what I can do for you!
 
-My Skype : live:.cid.6ce94d5eda3adc80
 My Email : ruggd71@gmail.com
